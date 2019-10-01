@@ -15,7 +15,7 @@ Install a userstyle manager for your favorite browser:
 - <b>Firefox </b>: [Stylus](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)
 - <b>Safari</b>: [Cascadea](https://cascadea.app/)
 
-<i>You can use any userstyle manager you like.<i>
+<i>You can use any userstyle manager you like.</i>
 
 Visit [this page](https://raw.githubusercontent.com/AM-77/dark-github-theme/master/dark-github.css) to automatically install the theme.
 
