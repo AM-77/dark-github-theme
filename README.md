@@ -1,7 +1,7 @@
 
-# GitHub Dark 2.0
+# Dark Github
 
-Dark theme for GitHub - Browse GitHub in nighttime mode.
+A dark theme for the github website.
 
 <img src="./screenshots/screen.png" />
 
