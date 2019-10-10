@@ -1,6 +1,6 @@
 /* === Infos === 
 Name            Dark GitHub 
-Repository      https://github.com/AM-77/dark-github
+Repository      https://github.com/AM-77/dark-github-theme
 Description     A Dark Theme For The GitHub Website
 Author          AM-77
 License         MIT
@@ -33,6 +33,10 @@ License         MIT
 ::-webkit-scrollbar-thumb {
     background-color: var(--primary-color);
     border-radius: 3px;
+}
+
+::selection{
+    background: #C41963
 }
 
 /* === Background === */
@@ -1373,7 +1377,7 @@ ul.comparison-list>li {
 }
 
 .discussion-timeline-actions {
-    background-color: var(--dark-color);
+    background-color: var(--body-color);
     border-top: 2px solid var(--black-color);
 }
 
@@ -1873,4 +1877,94 @@ ul.comparison-list>li {
     text-shadow: none;
     background-image: linear-gradient(var(--dark-primary-color),var(--primary-color));
     border-color: var(--dark-color);
+}
+
+.branch-action-body .merge-branch-form, .branch-action-body .merge-message {
+    background-color: var(--dark-color);
+    border-top: 1px solid var(--black-color);
+}
+
+.branch-action-body {
+    background-color: var(--black-color);
+    border-top: 1px solid var(--black-color);
+}
+
+.branch-action-body:before {
+    border-right-color: var(--black-color);
+}
+
+.branch-action-body:after {
+    border-right-color: var(--black-color);
+}
+
+.merge-branch-heading {
+    color: var(--text-color);
+}
+
+.markdown-body img {
+    background-color: var(--transparent);
+}
+
+.new-discussion-timeline .composer .comment-form-head.tabnav{
+    background-color: var(--dark-color);
+}
+
+.merge-status-item {
+    background-color: var(--dark-color);
+    border-bottom: 1px solid var(--black-color);
+}
+
+.branch-action-item+.branch-action-item, .branch-action-item+.mergeability-details {
+    border-top: 1px solid var(--black-color);
+}
+
+.merge-status-list {
+    border: solid var(--black-color);
+}
+
+.branch-action-state-closed-dirty .branch-action-body, .branch-action-state-dirty .branch-action-body, .is-rebasing .branch-action-state-dirty-if-rebasing .branch-action-body {
+    border-color: var(--black-color);
+}
+
+.branch-action-state-closed-dirty .branch-action-body:before, .branch-action-state-dirty .branch-action-body:before, .is-rebasing .branch-action-state-dirty-if-rebasing .branch-action-body:before {
+    border-right-color: var(--black-color);
+}
+
+.label, .Label {
+    color: var(--text-color);
+}
+
+.Label--gray-darker {
+    background-color: var(--black-color);
+}
+
+.bg-yellow-light {
+    background-color: var(--dark-color)!important;
+}
+
+.checks-index-item:hover {
+    background-color: var(--dark-color)!important;
+}
+
+.filter-bar {
+    background-color: var(--dark-color)!important;
+    border-bottom: 1px solid var(--black-color)!important;
+}
+
+.page-responsive .previewable-comment-form .comment-form-head.tabnav {
+    background: var(--dark-color)!important;
+}
+
+.gollum-editor .comment-form-head.tabnav {
+    border: 1px solid var(--black-color)!important;
+}
+
+
+.signed-commit-header {
+    background-color: var(--black-color);
+    border-bottom: 1px solid var(--black-color);
+}
+
+.network .current-repository {
+    background-color: var(--dark-color);
 }
