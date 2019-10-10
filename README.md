@@ -1,30 +1,28 @@
-![](https://cquanu.github.io/github-dark/preview.png)
 
-# GitHub Dark 2.0
+# Dark Github
 
-Dark theme for GitHub - Browse GitHub in nighttime mode.
+A dark theme for the github website.
 
-[![GitHub Release](https://img.shields.io/github/release/cquanu/github-dark.svg)](https://github.com/cquanu/github-dark/releases) 
-[![License](https://img.shields.io/github/license/cquanu/github-dark.svg)](https://github.com/cquanu/github-dark/blob/master/LICENSE)
+<img src="./screenshots/screen.png" />
+
+[![License](https://img.shields.io/github/license/AM-77/dark-github-theme.svg)](https://github.com/AM-77/dark-github-theme/blob/master/LICENSE)
 
 ## How to use
 
 Install a userstyle manager for your favorite browser:
 
-- [Google Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en)
-- [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)
-- [Safari (untested with usercss)](https://cascadea.app/)
+- <b>Google Chrome</b>: [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en)
+- <b>Firefox </b>: [Stylus](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)
+- <b>Safari</b>: [Cascadea](https://cascadea.app/)
 
-Visit [this page](https://github.com/cquanu/github-dark/raw/master/github-dark.user.css) to automatically install the theme.
+<i>You can use any userstyle manager you like.</i>
 
-## Userstyles.org
-
-Userstyles.org is no longer being updated. Please use the user.css version of the theme. 
+Visit [this page](https://raw.githubusercontent.com/AM-77/dark-github-theme/master/dark-github.css) to automatically install the theme.
 
 ## Bug reports
 
-Open an issue or submit a pull request, please.
+To report or fix a bug, please open an issue or submit a pull request.
 
 ## License and copyright
 
-Licensed under [MIT](LICENSE) and copyright [@cquanu](https://twitter.com/cquanu).
+Licensed under [MIT](LICENSE) and copyright [AM-77](https://github.com/AM-77).
