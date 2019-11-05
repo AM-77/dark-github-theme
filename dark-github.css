@@ -1968,3 +1968,21 @@ ul.comparison-list>li {
 .network .current-repository {
     background-color: var(--dark-color);
 }
+
+.news .commits li img {
+    background-color: var(--transparent);
+}
+
+.blob-num {
+    color: var(--text-color);
+}
+
+.signup-prompt-bg {
+    background: var(--black-color);
+}
+
+.Header-old {
+    color: var(--text-color);
+    background: var(--black-color);
+}
+
